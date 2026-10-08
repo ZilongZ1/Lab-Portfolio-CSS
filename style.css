@@ -12,7 +12,7 @@ html {
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     background-color: var(--light-green);
     color: var(--text-color);
     line-height: 1.6;
